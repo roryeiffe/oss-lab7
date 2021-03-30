@@ -16,3 +16,9 @@ Proof of completed build:
 - The dashboard is relatively clean, there are no errors observed. 
 ![similar](similar_system.jpg)
 
+3. The only test that failed was kwsys.testSystemTools but this failed on a similar build as well. 
+
+![failed_tests](kwsys.jpg)
+
+4. 
+![ubuntu](ubuntu.jpg)
