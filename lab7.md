@@ -25,8 +25,21 @@ Proof of completed build:
 
 ## Checkpoint 3
 
+Error Output:
+![failure](copyright_fail.jpg)
+
+Fix (change 2020 to 2021):
+![Fix](copyright_fix.jpg)
+
+Success:
+![success](copyright_success.jpg)
+
+
+
+
 ## Checkpoint 4
 
 ## Checkpoint 5
 
 ![project_update](project_update.jpg)
+
