@@ -22,3 +22,11 @@ Proof of completed build:
 
 4. 
 ![ubuntu](ubuntu_output.jpg)
+
+## Checkpoint 3
+
+## Checkpoint 4
+
+## Checkpoint 5
+
+![project_update](project_update.jpg)
