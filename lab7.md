@@ -21,4 +21,4 @@ Proof of completed build:
 ![failed_tests](kwsys.jpg)
 
 4. 
-![ubuntu](ubuntu.jpg)
+![ubuntu](ubuntu_output.jpg)
